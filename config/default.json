@@ -1,0 +1,7 @@
+{
+    "secret": {
+        "key": "8c8c91bc137a145a7973db5fb81d99d8"
+    },
+    "dbChain": "mongodb://localhost:27017/videoclub"
+}
+
